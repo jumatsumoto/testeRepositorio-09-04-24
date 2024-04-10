@@ -1,0 +1,32 @@
+.solida
+{
+    border-style: solid dashed double groove ;
+    border-width:  25px  10px 4px 50px;
+    border-color:blueviolet  yellowgreen green pink ;
+}
+
+.dotted
+{
+    border-style: dotted;
+}
+
+.dashed
+{
+    style: dashed ;
+}
+
+.double
+{
+    style: double;
+}
+
+.groove
+{
+    style: groove;
+}
+
+.border
+{
+    style: border;
+}
+
